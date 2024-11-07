@@ -1,5 +1,5 @@
 import video1 from "../assets/cat2.mp4";
-import video2 from "../assets/dog6.mp4";
+import video2 from "../assets/dog5.mp4";
 
 const HeroSection = () => {
   return (
