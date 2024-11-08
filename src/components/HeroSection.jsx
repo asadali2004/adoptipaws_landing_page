@@ -18,7 +18,7 @@ const HeroSection = () => {
       </p>
       <div className="flex justify-center my-10">
         <a
-          href="http://adoptipaws.freesite.online/"
+          href="http://adoptipaws.tech/"
           className="bg-gradient-to-r from-green-500 to-green-800 py-3 px-4 mx-3 rounded-md"
         >
          Explore AdoptiPaws
